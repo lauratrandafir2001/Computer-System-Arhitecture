@@ -1,4 +1,4 @@
-# Project Memory Allocator
+# Project Consumer Producer
 
 # About
 Computing Systems Architecture course
